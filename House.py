@@ -6,6 +6,7 @@
 
 
 #These import the necessary set of functions to run my program
+from graphics import *
 import random, time
 
 
